@@ -6,6 +6,7 @@ How It Works⚙️:
 
 1-The program displays the prompt: 
   (Enter a digit:) 
+
 2-The user inputs an integer (positive, negative, or zero).
 
 3-The program computes number % 2 (the remainder of division by 2).
