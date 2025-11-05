@@ -1,5 +1,3 @@
-#Even-Odd-Checker✅
-
 Description📝:
 
 This is a simple C++ console application. The program prompts the user to enter an integer and then determines whether that integer is even or odd, printing a clear message to the user.
